@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "Marvin Gaye（feat. Meghan Trainor）",
+  "base_track": "Marvin Gaye (feat. Meghan Trainor)",
   "base_artist": "Charlie Puth",
-  "createdAt": "2025-12-23T14:20:24.003318Z",
+  "createdAt": "2026-02-22T02:16:40.350403Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -167,10 +167,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Marvin Gaye (feat. Wale) [Remix]",
-      "artist": "Charlie puth",
+      "title": "Marvin Gaye Featuring Meghan Trainor",
+      "artist": "Charlie Puth",
       "has_synced": false,
-      "path": "select/pl_01_Marvin_Gaye_(feat._Wale)_[Remix]_Charlie_puth.txt"
+      "path": "select/pl_01_Marvin_Gaye_Featuring_Meghan_Trainor_Charlie_Puth.txt"
     }
   ]
 }
