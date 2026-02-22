@@ -1,4 +1,4 @@
-# Charlie Puth – Marvin Gaye（feat. Meghan Trainor）
+# Charlie Puth – Marvin Gaye (feat. Meghan Trainor)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
